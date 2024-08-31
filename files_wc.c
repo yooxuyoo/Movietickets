@@ -9,7 +9,7 @@ struct Administrator {
     char cinemaName[51]; // 所属美女影院名称
     char name[51];       // 美女管理员姓名
     char email[51];      // meinv管理员邮箱
-    char password[51];   // 管理员密码
+    char password[51];   // meinv管理员密码
 };
 
 struct User {
