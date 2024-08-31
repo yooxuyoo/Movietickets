@@ -8,7 +8,7 @@ struct Administrator {
     char adminID[11];    //帅哥管理员ID，长度6-10字符
     char cinemaName[51]; // 所属美女影院名称
     char name[51];       // 美女管理员姓名
-    char email[51];      // 管理员邮箱
+    char email[51];      // meinv管理员邮箱
     char password[51];   // 管理员密码
 };
 
