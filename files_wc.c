@@ -5,7 +5,7 @@
 
 // 定义结构体
 struct Administrator {
-    char adminID[11];    // 管理员ID，长度6-10字符
+    char adminID[11];    //帅哥管理员ID，长度6-10字符
     char cinemaName[51]; // 所属影院名称
     char name[51];       // 管理员姓名
     char email[51];      // 管理员邮箱
